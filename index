@@ -1,40 +1,29 @@
 {
   "apps" : [
-    { 
+    {
       "name" : "Platform",
       "id" : "platform",
       "required" : true,
       "ui": false
     },
-    { 
+    {
       "name" : "ownCloud",
       "id" : "owncloud",
       "required" : false,
       "ui": true
     },
-    { 
+    {
       "name" : "Diaspora",
       "id" : "diaspora",
       "required" : false,
       "ui": true
     },
-    { 
+    {
       "name" : "Mail",
       "id" : "mail",
       "required" : false,
       "ui": true
-    },
-    { 
-      "name" : "Talk",
-      "id" : "talk",
-      "required" : false,
-      "ui": true
-    },
-    { 
-      "name" : "Files Browser",
-      "id" : "files",
-      "required" : false,
-      "ui": true
     }
+
   ]
 }
