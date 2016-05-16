@@ -17,25 +17,29 @@
       "name" : "Diaspora",
       "id" : "diaspora",
       "required" : false,
-      "ui": true
+      "ui": true,
+      "icon": "diaspora-128.png"
     },
     {
       "name" : "Mail",
       "id" : "mail",
       "required" : false,
-      "ui": true
+      "ui": true,
+      "icon": "mail-128.png"
     },
     {
       "name" : "Talk",
       "id" : "talk",
       "required" : false,
-      "ui": true
+      "ui": true,
+      "icon": "talk-128.png"
     },
     {
       "name" : "Files Browser",
       "id" : "files",
       "required" : false,
-      "ui": true
+      "ui": true,
+      "icon": "files-128.png"
     }
   ]
 }
