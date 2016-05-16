@@ -10,7 +10,8 @@
       "name" : "ownCloud",
       "id" : "owncloud",
       "required" : false,
-      "ui": true
+      "ui": true,
+      "icon": "owncloud-128.png"
     },
     {
       "name" : "Diaspora",
