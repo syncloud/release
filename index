@@ -7,6 +7,12 @@
       "ui": false
     },
     {
+      "name" : "Syncloud App Manager",
+      "id" : "sam",
+      "required" : true,
+      "ui": false
+    },
+    {
       "name" : "ownCloud",
       "id" : "owncloud",
       "required" : false,
