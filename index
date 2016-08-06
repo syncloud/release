@@ -17,35 +17,40 @@
       "id" : "owncloud",
       "required" : false,
       "ui": true,
-      "icon": "owncloud-128.png"
+      "icon": "owncloud-128.png",
+      "description": "Access & share your files from any device"
     },
     {
       "name" : "Diaspora",
       "id" : "diaspora",
       "required" : false,
       "ui": true,
-      "icon": "diaspora-128.png"
+      "icon": "diaspora-128.png",
+      "description": "A privacy-aware, distributed, open source social network"
     },
     {
       "name" : "Mail",
       "id" : "mail",
       "required" : false,
       "ui": true,
-      "icon": "mail-128.png"
+      "icon": "mail-128.png",
+      "description": "Mail with Web interface and compatible with popular mail apps"
     },
     {
       "name" : "Talk",
       "id" : "talk",
       "required" : false,
       "ui": true,
-      "icon": "talk-128.png"
+      "icon": "talk-128.png",
+      "description": "Video and text messaging"
     },
     {
       "name" : "Files Browser",
       "id" : "files",
       "required" : false,
       "ui": true,
-      "icon": "files-128.png"
+      "icon": "files-128.png",
+      "description": "Browse all the device files"
     }
   ]
 }
