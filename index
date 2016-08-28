@@ -21,11 +21,11 @@
       "description": "Access & share your files from any device"
     },
     {
-      "name" : "nextloud",
-      "id" : "nextloud",
+      "name" : "nextcloud",
+      "id" : "nextcloud",
       "required" : false,
       "ui": true,
-      "icon": "nextloud-128.png",
+      "icon": "nextcloud-128.png",
       "description": "Access & share your files from any device"
     },
     {
