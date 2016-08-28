@@ -21,6 +21,14 @@
       "description": "Access & share your files from any device"
     },
     {
+      "name" : "nextloud",
+      "id" : "nextloud",
+      "required" : false,
+      "ui": true,
+      "icon": "nextloud-128.png",
+      "description": "Access & share your files from any device"
+    },
+    {
       "name" : "Diaspora",
       "id" : "diaspora",
       "required" : false,
