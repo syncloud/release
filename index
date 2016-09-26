@@ -45,14 +45,6 @@
       "description": "Mail with Web interface and compatible with popular mail apps"
     },
     {
-      "name" : "Talk",
-      "id" : "talk",
-      "required" : false,
-      "ui": true,
-      "icon": "talk-128.png",
-      "description": "Video and text messaging"
-    },
-    {
       "name" : "Files Browser",
       "id" : "files",
       "required" : false,
