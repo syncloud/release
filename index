@@ -51,6 +51,14 @@
       "ui": true,
       "icon": "files-128.png",
       "description": "Browse all the device files"
+    },
+    {
+      "name" : "GOGS",
+      "id" : "gogs",
+      "required" : false,
+      "ui": true,
+      "icon": "gogs-128.png",
+      "description": "Go Git Service"
     }
   ]
 }
