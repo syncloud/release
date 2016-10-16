@@ -45,20 +45,20 @@
       "description": "Mail with Web interface and compatible with popular mail apps"
     },
     {
-      "name" : "Talk",
-      "id" : "talk",
-      "required" : false,
-      "ui": true,
-      "icon": "talk-128.png",
-      "description": "Video and text messaging"
-    },
-    {
       "name" : "Files Browser",
       "id" : "files",
       "required" : false,
       "ui": true,
       "icon": "files-128.png",
       "description": "Browse all the device files"
+    },
+    {
+      "name" : "GOGS",
+      "id" : "gogs",
+      "required" : false,
+      "ui": true,
+      "icon": "gogs-128.png",
+      "description": "Go Git Service"
     }
   ]
 }
