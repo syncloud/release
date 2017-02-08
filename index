@@ -34,7 +34,7 @@
       "required" : false,
       "ui": true,
       "icon": "diaspora-128.png",
-      "description": "A privacy-aware, distributed, open source social network"
+      "description": "A privacy-aware, distributed, open source social network. it is required to enable https before installing diaspora as it will not work correctly otherwise. You will have to remove and install again if https was enabled after installing diaspora."
     },
     {
       "name" : "Mail",
@@ -42,7 +42,7 @@
       "required" : false,
       "ui": true,
       "icon": "mail-128.png",
-      "description": "Mail with Web interface and compatible with popular mail apps"
+      "description": "Mail with Web interface and compatible with popular mail apps. It is required to have external access enabled and your internet provider to not block privileged ports (lower then 1024) to be able to receive emails."
     },
     {
       "name" : "Files Browser",
