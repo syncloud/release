@@ -21,7 +21,7 @@
       "description": "Access & share your files from any device"
     },
     {
-      "name" : "nextcloud",
+      "name" : "Nextcloud",
       "id" : "nextcloud",
       "required" : false,
       "ui": true,
@@ -45,7 +45,7 @@
       "description": "Mail with Web interface and compatible with popular mail apps. It is required to have external access enabled and your internet provider to not block privileged ports (lower then 1024) to be able to receive emails."
     },
     {
-      "name" : "Files Browser",
+      "name" : "Files",
       "id" : "files",
       "required" : false,
       "ui": true,
