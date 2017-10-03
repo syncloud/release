@@ -21,7 +21,7 @@
       "description": "Access & share your files from any device"
     },
     {
-      "name" : "Nextcloud",
+      "name" : "Nextcloud file sharing",
       "id" : "nextcloud",
       "required" : false,
       "ui": true,
@@ -29,7 +29,7 @@
       "description": "Access & share your files from any device"
     },
     {
-      "name" : "Diaspora",
+      "name" : "Diaspora social network",
       "id" : "diaspora",
       "required" : false,
       "ui": true,
@@ -37,7 +37,7 @@
       "description": "A privacy-aware, distributed, open source social network. it is required to enable https before installing diaspora as it will not work correctly otherwise. You will have to remove and install again if https was enabled after installing diaspora."
     },
     {
-      "name" : "Mail",
+      "name" : "Mail server",
       "id" : "mail",
       "required" : false,
       "ui": true,
@@ -45,7 +45,7 @@
       "description": "Mail with Web interface and compatible with popular mail apps. It is required to have external access enabled and your internet provider to not block privileged ports (lower then 1024) to be able to receive emails."
     },
     {
-      "name" : "Files",
+      "name" : "File browser",
       "id" : "files",
       "required" : false,
       "ui": true,
@@ -53,7 +53,7 @@
       "description": "Browse all the device files"
     },
     {
-      "name" : "GOGS",
+      "name" : "GOGS git server",
       "id" : "gogs",
       "required" : false,
       "ui": true,
