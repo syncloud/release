@@ -7,7 +7,7 @@ fi
 
 BRANCH=$1
 
-S3_APPS_URL=http://apps.syncloud.org
+S3_APPS_URL=s3://apps.syncloud.org
 
 if [ "$BRANCH" == "stable" ]; then
   echo "not pushing to $BRANCH"
