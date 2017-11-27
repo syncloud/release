@@ -18,7 +18,8 @@
       "required" : false,
       "ui": true,
       "icon": "owncloud-128.png",
-      "description": "Access & share your files from any device"
+      "description": "Access & share your files from any device",
+      "enabled": False
     },
     {
       "name" : "Nextcloud file sharing",
