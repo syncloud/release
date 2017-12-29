@@ -19,7 +19,7 @@
       "ui": true,
       "icon": "owncloud-128.png",
       "description": "Access & share your files from any device",
-      "enabled": False
+      "enabled": false
     },
     {
       "name" : "Nextcloud file sharing",
@@ -60,6 +60,14 @@
       "ui": true,
       "icon": "rocketchat-128.png",
       "description": "Rocket.Chat"
+    },
+    {
+      "name" : "GOGS git server",
+      "id" : "gogs",
+      "required" : false,
+      "ui": true,
+      "icon": "gogs-128.png",
+      "description": "Go Git Service"
     }
   ]
 }
