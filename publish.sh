@@ -16,7 +16,7 @@ fi
 
 s3cmd put index $S3_APPS_URL/releases/$BRANCH/
 
-for f in images/*
+for f in images/*.png
 do
   md5sum $f > $f.md5
 done
