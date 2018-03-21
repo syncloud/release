@@ -20,4 +20,4 @@ BRANCH=$1
 APP=$2
 VERSION=$3
 
-$SAM --debug release $BRANCH $BRANCH --override $APP=$VERSION
+$SAM --debug release $BRANCH $BRANCH --versions --override $APP=$VERSION
