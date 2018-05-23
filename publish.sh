@@ -9,7 +9,7 @@ BRANCH=$1
 
 S3_APPS_URL=s3://apps.syncloud.org
 
-if [[ "$BRANCH" == "stable" ]] && [[ "$1" != "--force" ]]; then
+if [[ "$BRANCH" == "stable" ]] && [[ "$2" != "--force" ]]; then
   echo "not pushing to $BRANCH, use --force"
   exit 1
 fi
