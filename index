@@ -18,7 +18,7 @@
       "required" : false,
       "ui": true,
       "icon": "owncloud-128.png",
-      "description": "Access & share your files from any device",
+      "description": "Access & share your files from any device.",
       "enabled": false
     },
     {
@@ -27,7 +27,7 @@
       "required" : false,
       "ui": true,
       "icon": "nextcloud-128.png",
-      "description": "Access & share your files from any device"
+      "description": "Access & share your files from any device."
     },
     {
       "name" : "Diaspora social network",
@@ -43,7 +43,7 @@
       "required" : false,
       "ui": true,
       "icon": "mail-128.png",
-      "description": "Mail with Web interface and compatible with popular mail apps. It is required to have external access enabled and your internet provider to not block privileged ports (lower then 1024) to be able to receive emails."
+      "description": "Mail with Web interface and compatible with popular mail apps."
     },
     {
       "name" : "File browser",
@@ -51,7 +51,7 @@
       "required" : false,
       "ui": true,
       "icon": "files-128.png",
-      "description": "Browse all the device files"
+      "description": "Simple device files browser."
     },
     {
       "name" : "Rocket.Chat",
@@ -59,7 +59,7 @@
       "required" : false,
       "ui": true,
       "icon": "rocketchat-128.png",
-      "description": "Rocket.Chat"
+      "description": "Text, voice and video chat."
     },
     {
       "name" : "GOGS git server",
@@ -67,7 +67,7 @@
       "required" : false,
       "ui": true,
       "icon": "gogs-128.png",
-      "description": "Go Git Service"
+      "description": "Distributed version control system."
     }
   ]
 }
