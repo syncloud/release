@@ -10,14 +10,10 @@ if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ]; then
   exit 0
 fi
 
-SAM=/opt/app/sam/bin/sam
-if [ ! -f $SAM ]; then
-    echo "install sam by running ./install-sam.sh"
-    exit 1
-fi
-
 BRANCH=$1
 APP=$2
 VERSION=$3
+S3_APPS_URL=s3://apps.syncloud.org
 
-$SAM --debug release $BRANCH $BRANCH --versions --override $APP=$VERSION
+echo ${VERSION} > ${APP}.version
+s3cmd put ${APP}.version ${S3_APPS_URL}/releases/${BRANCH}/
