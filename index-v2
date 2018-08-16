@@ -13,15 +13,6 @@
       "ui": false
     },
     {
-      "name" : "ownCloud",
-      "id" : "owncloud",
-      "required" : false,
-      "ui": true,
-      "icon": "owncloud-128.png",
-      "description": "Access & share your files from any device.",
-      "enabled": false
-    },
-    {
       "name" : "Nextcloud file sharing",
       "id" : "nextcloud",
       "required" : false,
