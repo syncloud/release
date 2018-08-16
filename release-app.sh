@@ -15,5 +15,5 @@ APP=$2
 VERSION=$3
 S3_APPS_URL=s3://apps.syncloud.org
 
-echo ${VERSION} > ${APP}.version
+printf ${VERSION} > ${APP}.version
 s3cmd put ${APP}.version ${S3_APPS_URL}/releases/${BRANCH}/
