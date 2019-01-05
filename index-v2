@@ -74,7 +74,7 @@
       "required" : false,
       "ui": true,
       "icon": "wordpress-128.png",
-      "description": "Wordpress."
+      "description": "Blogging, mailing lists and forums, media galleries, and online stores."
     }
   ]
 }
