@@ -74,7 +74,7 @@
       "required" : false,
       "ui": true,
       "icon": "wordpress-128.png",
-      "description": "Blogging, mailing lists and forums, media galleries, and online stores."
+      "description": "Blogging, mailing lists and forums, media galleries, and online stores"
     },
     {
       "name" : "Notes",
@@ -82,7 +82,7 @@
       "required" : false,
       "ui": true,
       "icon": "notes-128.png",
-      "description": "Notes app based on StandardNotes with mobile apps."
+      "description": "Simple and private notes app based on StandardNotes with mobile apps."
     },
     {
       "name" : "Users",
