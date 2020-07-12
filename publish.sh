@@ -21,4 +21,4 @@ do
   md5sum $f > $f.md5
 done
 
-aws-shell sync images/ $S3_APPS_URL/releases/$BRANCH/images/
+aws s3 sync images/ $S3_APPS_URL/releases/$BRANCH/images/

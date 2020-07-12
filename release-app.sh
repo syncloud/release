@@ -11,4 +11,4 @@ VERSION=$3
 S3_APPS_URL=s3://apps.syncloud.org
 
 printf ${VERSION} > ${APP}.version
-aws-shell s3 cp ${APP}.version ${S3_APPS_URL}/releases/${BRANCH}/
+aws s3 cp ${APP}.version ${S3_APPS_URL}/releases/${BRANCH}/
