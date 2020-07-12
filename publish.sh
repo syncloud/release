@@ -5,11 +5,6 @@ if [ "$#" -lt 1 ]; then
     exit 1
 fi
 
-if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ]; then
-  echo "AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY must be set, not updatingg"
-  exit 0
-fi
-
 BRANCH=$1
 
 S3_APPS_URL=s3://apps.syncloud.org
@@ -26,4 +21,4 @@ do
   md5sum $f > $f.md5
 done
 
-s3cmd sync images/ $S3_APPS_URL/releases/$BRANCH/images/
+aws-shell sync images/ $S3_APPS_URL/releases/$BRANCH/images/
