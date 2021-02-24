@@ -14,7 +14,7 @@ if [[ "$BRANCH" == "stable" ]] && [[ "$2" != "--force" ]]; then
   exit 1
 fi
 
-s3cmd put index-v2 $S3_APPS_URL/releases/$BRANCH/
+aws s3 cp index-v2 $S3_APPS_URL/releases/$BRANCH/
 
 for f in images/*.png
 do
