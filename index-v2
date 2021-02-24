@@ -101,6 +101,14 @@
       "ui": true,
       "icon": "openvpn-128.png",
       "description": "Secure connection to your Syncloud device over the Internet."
+    },
+    {
+      "name" : "Plex Media Server",
+      "id" : "plex",
+      "required" : false,
+      "ui": true,
+      "icon": "plex-128.png",
+      "description": "Plex Media Server."
     }
   ]
 }
