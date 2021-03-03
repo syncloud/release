@@ -108,7 +108,7 @@
       "required" : false,
       "ui": true,
       "icon": "plex-128.png",
-      "description": "Plex Media Server."
+      "description": "Free movies and TV plus all your personal media libraries on every device. Master your Mediaverse."
     }
   ]
 }
