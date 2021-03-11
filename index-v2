@@ -109,6 +109,14 @@
       "ui": true,
       "icon": "plex-128.png",
       "description": "Free movies and TV plus all your personal media libraries on every device. Master your Mediaverse."
+    },
+    {
+      "name" : "Bitwarden",
+      "id" : "bitwarden",
+      "required" : false,
+      "ui": true,
+      "icon": "bitwarden-128.png",
+      "description": "Password Manager."
     }
   ]
 }
