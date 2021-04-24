@@ -117,6 +117,14 @@
       "ui": true,
       "icon": "bitwarden-128.png",
       "description": "Password Manager."
+    },
+    {
+      "name" : "Home Assistant",
+      "id" : "home-assistant",
+      "required" : false,
+      "ui": true,
+      "icon": "home-assistant-128.png",
+      "description": "Home automation software designed to be the central control system for smart home devices."
     }
   ]
 }
