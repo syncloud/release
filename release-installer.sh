@@ -1,12 +1,12 @@
 #!/bin/bash -xe
 
 if [ "$#" -lt 3 ]; then
-    echo "usage $0 branch app version"
+    echo "usage $0 branch version"
     exit 1
 fi
 
 BRANCH=$1
-APP=$2
+APP=snapd
 VERSION=$3
 S3_APPS_URL=s3://apps.syncloud.org
 
