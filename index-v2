@@ -12,7 +12,7 @@
       "required" : false,
       "ui": true,
       "icon": "nextcloud-128.png",
-      "description": "Access & share your files from any device."
+      "description": "Access & share your files from any device"
     },
     {
       "name" : "Diaspora social network",
@@ -20,7 +20,7 @@
       "required" : false,
       "ui": true,
       "icon": "diaspora-128.png",
-      "description": "A privacy-aware, distributed, open source social network."
+      "description": "A privacy-aware, distributed, open source social network"
     },
     {
       "name" : "Mail server",
@@ -28,7 +28,7 @@
       "required" : false,
       "ui": true,
       "icon": "mail-128.png",
-      "description": "Mail with Web interface and compatible with popular mail apps."
+      "description": "Mail with Web interface and compatible with popular mail apps"
     },
     {
       "name" : "File browser",
@@ -36,7 +36,7 @@
       "required" : false,
       "ui": true,
       "icon": "files-128.png",
-      "description": "Simple device files browser."
+      "description": "Simple device files browser"
     },
     {
       "name" : "Rocket.Chat",
@@ -44,7 +44,7 @@
       "required" : false,
       "ui": true,
       "icon": "rocketchat-128.png",
-      "description": "Text, voice and video chat."
+      "description": "Text, voice and video chat"
     },
     {
       "name" : "GOGS git server",
@@ -52,7 +52,7 @@
       "required" : false,
       "ui": true,
       "icon": "gogs-128.png",
-      "description": "Distributed version control system."
+      "description": "Distributed version control system"
     },
     {
       "name" : "Syncthing",
@@ -60,7 +60,7 @@
       "required" : false,
       "ui": true,
       "icon": "syncthing-128.png",
-      "description": "Continuous File Synchronization."
+      "description": "Continuous File Synchronization"
     },
     {
       "name" : "WordPress",
@@ -76,7 +76,7 @@
       "required" : false,
       "ui": true,
       "icon": "users-128.png",
-      "description": "User management app."
+      "description": "User management app"
     },
     {
       "name" : "Pi-hole",
@@ -84,7 +84,7 @@
       "required" : false,
       "ui": true,
       "icon": "pihole-128.png",
-      "description": "Network-wide Ad Blocking."
+      "description": "Network-wide Ad Blocking"
     },
     {
       "name" : "OpenVPN",
@@ -92,7 +92,7 @@
       "required" : false,
       "ui": true,
       "icon": "openvpn-128.png",
-      "description": "Secure connection to your Syncloud device over the Internet."
+      "description": "Secure connection to your Syncloud device over the Internet"
     },
     {
       "name" : "Plex Media Server",
@@ -100,7 +100,7 @@
       "required" : false,
       "ui": true,
       "icon": "plex-128.png",
-      "description": "Free movies and TV plus all your personal media libraries on every device. Master your Mediaverse."
+      "description": "Free movies and TV plus all your personal media libraries on every device. Master your Mediaverse"
     },
     {
       "name" : "Bitwarden",
@@ -116,16 +116,23 @@
       "required" : false,
       "ui": true,
       "icon": "home-assistant-128.png",
-      "description": "Home automation software designed to be the central control system for smart home devices."
+      "description": "Home automation software designed to be the central control system for smart home devices"
     },
     {
-
       "name" : "Standard Notes",
       "id" : "standardnotes",
       "required" : false,
       "ui": true,
       "icon": "standardnotes-128.png",
-      "description": "Standard Notes is an easy-to-use encrypted note-taking app."
+      "description": "Standard Notes is an easy-to-use encrypted note-taking app"
+    },
+    {
+      "name" : "Jellyfin Media System",
+      "id" : "jellyfin",
+      "required" : false,
+      "ui": true,
+      "icon": "jellyfin-128.png",
+      "description": "The Free Software Media System"
     }
   ]
 }
