@@ -135,6 +135,14 @@
       "description": "The Free Software Media System"
     },
     {
+      "name" : "Collabora Online DE",
+      "id" : "collabora",
+      "required" : false,
+      "ui": true,
+      "icon": "collabora-128.png",
+      "description": "Collabora Online Development Edition"
+    },
+    {
       "name" : "Mastodon",
       "id" : "mastodon",
       "required" : false,
