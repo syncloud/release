@@ -133,6 +133,14 @@
       "ui": true,
       "icon": "jellyfin-128.png",
       "description": "The Free Software Media System"
+    },
+    {
+      "name" : "Mastodon",
+      "id" : "mastodon",
+      "required" : false,
+      "ui": true,
+      "icon": "mastodon-128.png",
+      "description": "Social Network"
     }
   ]
 }
