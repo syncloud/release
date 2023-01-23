@@ -149,6 +149,14 @@
       "ui": true,
       "icon": "mastodon-128.png",
       "description": "Social Network"
+    },
+    {
+      "name" : "Grocy",
+      "id" : "grocy",
+      "required" : false,
+      "ui": true,
+      "icon": "grocy-128.png",
+      "description": "Groceries Management"
     }
   ]
 }
