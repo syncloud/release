@@ -157,6 +157,14 @@
       "ui": true,
       "icon": "grocy-128.png",
       "description": "Groceries Management"
+    },
+    {
+      "name" : "Matrix",
+      "id" : "matrix",
+      "required" : false,
+      "ui": true,
+      "icon": "matrix-128.png",
+      "description": "An open network for secure, decentralized communication"
     }
   ]
 }
