@@ -165,6 +165,14 @@
       "ui": true,
       "icon": "matrix-128.png",
       "description": "An open network for secure, decentralized communication"
+    },
+    {
+      "name" : "Crowdsec",
+      "id" : "crowdsec",
+      "required" : false,
+      "ui": true,
+      "icon": "crowdsec-128.png",
+      "description": "Participative intrusion prevention system"
     }
   ]
 }
