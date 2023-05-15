@@ -172,7 +172,7 @@
       "required" : false,
       "ui": true,
       "icon": "crowdsec-128.png",
-      "description": "Participative intrusion prevention system"
+      "description": "Intrusion prevention system"
     }
   ]
 }
