@@ -173,6 +173,14 @@
       "ui": true,
       "icon": "crowdsec-128.png",
       "description": "Intrusion prevention system"
+    },
+    {
+      "name" : "Calibre-Web",
+      "id" : "calibre",
+      "required" : false,
+      "ui": true,
+      "icon": "calibre-128.png",
+      "description": "Browsing, reading and downloading eBooks"
     }
   ]
 }
