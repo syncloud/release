@@ -181,6 +181,14 @@
       "ui": true,
       "icon": "calibre-128.png",
       "description": "Browsing, reading and downloading eBooks"
+    },
+    {
+      "name" : "ShairPort",
+      "id" : "shairport",
+      "required" : false,
+      "ui": true,
+      "icon": "shairport-128.png",
+      "description": "AirPlay audio player"
     }
   ]
 }
