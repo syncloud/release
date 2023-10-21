@@ -196,7 +196,15 @@
       "required" : false,
       "ui": true,
       "icon": "photoprism-128.png",
-      "description": "AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy."
+      "description": "AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy"
+    },
+    {
+      "name" : "Stable Diffusion",
+      "id" : "stable-diffusion",
+      "required" : false,
+      "ui": true,
+      "icon": "stable-diffusion-128.png",
+      "description": "Generative artificial intelligence (generative AI) model that produces unique photorealistic images from text and image prompts"
     }
   ]
 }
