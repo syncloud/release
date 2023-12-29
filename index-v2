@@ -205,6 +205,14 @@
       "ui": true,
       "icon": "stable-diffusion-128.png",
       "description": "Generative artificial intelligence (generative AI) model that produces unique photorealistic images from text and image prompts"
+    },
+    {
+      "name" : "Transmission",
+      "id" : "transmission",
+      "required" : false,
+      "ui": true,
+      "icon": "transmission-128.png",
+      "description": "A Fast, Easy and Free Bittorrent Client"
     }
   ]
 }
