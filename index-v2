@@ -213,6 +213,14 @@
       "ui": true,
       "icon": "transmission-128.png",
       "description": "A Fast, Easy and Free Bittorrent Client"
+    },
+    {
+      "name" : "Frigate NVR",
+      "id" : "frigate",
+      "required" : false,
+      "ui": true,
+      "icon": "frigate-128.png",
+      "description": "NVR With Realtime Object Detection for IP Cameras"
     }
   ]
 }
