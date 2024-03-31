@@ -221,6 +221,14 @@
       "ui": true,
       "icon": "frigate-128.png",
       "description": "NVR With Realtime Object Detection for IP Cameras"
+    },
+    {
+      "name" : "YouTube Downloader",
+      "id" : "youtube",
+      "required" : false,
+      "ui": true,
+      "icon": "youtube-128.png",
+      "description": "YouTube downloader based on yt-dlp tool"
     }
   ]
 }
