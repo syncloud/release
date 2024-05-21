@@ -229,6 +229,14 @@
       "ui": true,
       "icon": "youtube-128.png",
       "description": "YouTube downloader based on yt-dlp tool"
+    },
+    {
+      "name" : "PeerTube",
+      "id" : "peertube",
+      "required" : false,
+      "ui": true,
+      "icon": "peertube-128.png",
+      "description": "Decentralized video platform"
     }
   ]
 }
