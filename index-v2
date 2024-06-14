@@ -237,6 +237,14 @@
       "ui": true,
       "icon": "peertube-128.png",
       "description": "Decentralized video platform"
+    },
+    {
+      "name" : "OwnTracks",
+      "id" : "owntracks",
+      "required" : false,
+      "ui": true,
+      "icon": "owntracks-128.png",
+      "description": "Keep track of your own location"
     }
   ]
 }
