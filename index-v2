@@ -119,7 +119,7 @@
       "description": "Home automation software designed to be the central control system for smart home devices"
     },
     {
-      "name" : "Standard Notes",
+      "name" : "Standard Notes (Old)",
       "id" : "standardnotes",
       "required" : false,
       "ui": true,
@@ -245,6 +245,14 @@
       "ui": true,
       "icon": "owntracks-128.png",
       "description": "Keep track of your own location"
-    }
+    },
+    {
+      "name" : "Standard Notes",
+      "id" : "notes",
+      "required" : false,
+      "ui": true,
+      "icon": "notes-128.png",
+      "description": "Standard Notes is an easy-to-use encrypted note-taking app"
+    },
   ]
 }
