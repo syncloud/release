@@ -119,14 +119,6 @@
       "description": "Home automation software designed to be the central control system for smart home devices"
     },
     {
-      "name" : "Standard Notes (Old)",
-      "id" : "standardnotes",
-      "required" : false,
-      "ui": true,
-      "icon": "standardnotes-128.png",
-      "description": "Standard Notes is an easy-to-use encrypted note-taking app"
-    },
-    {
       "name" : "Jellyfin Media System",
       "id" : "jellyfin",
       "required" : false,
@@ -253,6 +245,6 @@
       "ui": true,
       "icon": "notes-128.png",
       "description": "Standard Notes is an easy-to-use encrypted note-taking app"
-    },
+    }
   ]
 }
