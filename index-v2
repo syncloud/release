@@ -245,6 +245,14 @@
       "ui": true,
       "icon": "notes-128.png",
       "description": "Standard Notes is an easy-to-use encrypted note-taking app"
+    },
+    {
+      "name" : "Jitsi Meet",
+      "id" : "jitsimeet",
+      "required" : false,
+      "ui": true,
+      "icon": "jitsimeet-128.png",
+      "description": "Secure and high quality meetings"
     }
   ]
 }
