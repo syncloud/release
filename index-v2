@@ -253,6 +253,14 @@
       "ui": true,
       "icon": "jitsimeet-128.png",
       "description": "Secure and high quality meetings"
+    },
+    {
+      "name" : "Paperless-ngx",
+      "id" : "paperless",
+      "required" : false,
+      "ui": true,
+      "icon": "paperless-128.png",
+      "description": "Scan, index and archive all your physical documents"
     }
   ]
 }
