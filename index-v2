@@ -269,6 +269,14 @@
       "ui": true,
       "icon": "mattermost-128.png",
       "description": "Online chat service with file sharing, search, and third party application integrations"
+    },
+    {
+      "name" : "Gramps",
+      "id" : "gramps",
+      "required" : false,
+      "ui": true,
+      "icon": "gramps-128.png",
+      "description": "Research, organize and share your family tree"
     }
   ]
 }
