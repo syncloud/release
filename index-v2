@@ -277,6 +277,14 @@
       "ui": true,
       "icon": "gramps-128.png",
       "description": "Research, organize and share your family tree"
+    },
+    {
+      "name" : "Invoice Ninja",
+      "id" : "invoiceninja",
+      "required" : false,
+      "ui": true,
+      "icon": "invoiceninja-128.png",
+      "description": "Invoice, quote, project and time-tracking"
     }
   ]
 }
