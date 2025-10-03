@@ -285,6 +285,14 @@
       "ui": true,
       "icon": "invoiceninja-128.png",
       "description": "Invoice, quote, project and time-tracking"
+    },
+    {
+      "name" : "Homebridge",
+      "id" : "homebridge",
+      "required" : false,
+      "ui": true,
+      "icon": "homebridge-128.png",
+      "description": "Integrate with smart home devices that do not natively support HomeKit"
     }
   ]
 }
