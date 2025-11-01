@@ -300,7 +300,7 @@
       "required" : false,
       "ui": true,
       "icon": "kimai-128.png",
-      "description": "Time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more"
+      "description": "Time tracking for project-driven teams"
     }
   ]
 }
