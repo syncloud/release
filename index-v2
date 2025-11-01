@@ -293,6 +293,14 @@
       "ui": true,
       "icon": "homebridge-128.png",
       "description": "Integrate with smart home devices that do not natively support HomeKit"
+    },
+    {
+      "name" : "Kimai",
+      "id" : "kimai",
+      "required" : false,
+      "ui": true,
+      "icon": "kimai-128.png",
+      "description": "Time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more"
     }
   ]
 }
