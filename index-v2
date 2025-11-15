@@ -301,6 +301,14 @@
       "ui": true,
       "icon": "kimai-128.png",
       "description": "Time tracking for project-driven teams"
+    },
+    {
+      "name" : "Owncast",
+      "id" : "owncast",
+      "required" : false,
+      "ui": true,
+      "icon": "owncast-128.png",
+      "description": "Live video and web chat server for use with existing popular broadcasting software"
     }
   ]
 }
