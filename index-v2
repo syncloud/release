@@ -309,6 +309,14 @@
       "ui": true,
       "icon": "owncast-128.png",
       "description": "Live video and web chat server for use with existing popular broadcasting software"
+    },
+    {
+      "name" : "MeshCentral",
+      "id" : "meshcentral",
+      "required" : false,
+      "ui": true,
+      "icon": "meshcentral-128.png",
+      "description": "Remote device management"
     }
   ]
 }
