@@ -317,6 +317,14 @@
       "ui": true,
       "icon": "meshcentral-128.png",
       "description": "Remote device management"
+    },
+    {
+      "name" : "Open WebUI",
+      "id" : "openwebui",
+      "required" : false,
+      "ui": true,
+      "icon": "openwebui-128.png",
+      "description": "AI platform designed to operate entirely offline"
     }
   ]
 }
