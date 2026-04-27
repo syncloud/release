@@ -325,6 +325,14 @@
       "ui": true,
       "icon": "openwebui-128.png",
       "description": "AI platform designed to operate entirely offline"
+    },
+    {
+      "name" : "AmneziaWG",
+      "id" : "amneziawg",
+      "required" : false,
+      "ui": true,
+      "icon": "amneziawg-128.png",
+      "description": "AmneziaWG VPN server (WireGuard with DPI obfuscation)"
     }
   ]
 }
