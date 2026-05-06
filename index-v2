@@ -333,6 +333,14 @@
       "ui": true,
       "icon": "amneziawg-128.png",
       "description": "AmneziaWG VPN server (WireGuard with DPI obfuscation)"
+    },
+    {
+      "name" : "ONLYOFFICE Docs",
+      "id" : "onlyoffice",
+      "required" : false,
+      "ui": true,
+      "icon": "onlyoffice-128.png",
+      "description": "Online office suite for documents, spreadsheets and presentations"
     }
   ]
 }
