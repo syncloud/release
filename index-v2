@@ -341,6 +341,14 @@
       "ui": true,
       "icon": "onlyoffice-128.png",
       "description": "Online office suite for documents, spreadsheets and presentations"
+    },
+    {
+      "name" : "Syncloud Game Hub",
+      "id" : "games",
+      "required" : false,
+      "ui": true,
+      "icon": "games-128.png",
+      "description": "Dedicated game server panel for SteamCMD and Pelican-egg games"
     }
   ]
 }
