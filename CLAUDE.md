@@ -26,7 +26,6 @@ The script uploads `index-v2`, then md5s every `images/*.png` and `aws s3 sync`s
      "name" : "Display Name",
      "id" : "<snap id>",
      "required" : false,
-     "ui": true,
      "icon": "<id>-128.png",
      "description": "One-line summary"
    }

@@ -22,7 +22,6 @@ AWS_PROFILE=syncloud ./publish.sh stable --force
      "name" : "Display Name",
      "id" : "<snap id>",
      "required" : false,
-     "ui": true,
      "icon": "<id>-128.png",
      "description": "One-line summary"
    }
