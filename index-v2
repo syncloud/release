@@ -3,14 +3,12 @@
     {
       "name" : "Platform",
       "id" : "platform",
-      "required" : true,
-      "ui": false
+      "required" : true
     },
     {
       "name" : "Nextcloud file sharing",
       "id" : "nextcloud",
       "required" : false,
-      "ui": true,
       "icon": "nextcloud-128.png",
       "description": "Access & share your files from any device"
     },
@@ -18,7 +16,6 @@
       "name" : "Diaspora social network",
       "id" : "diaspora",
       "required" : false,
-      "ui": true,
       "icon": "diaspora-128.png",
       "description": "A privacy-aware, distributed, open source social network"
     },
@@ -26,7 +23,6 @@
       "name" : "Mail server",
       "id" : "mail",
       "required" : false,
-      "ui": true,
       "icon": "mail-128.png",
       "description": "Mail with Web interface and compatible with popular mail apps"
     },
@@ -34,7 +30,6 @@
       "name" : "File browser",
       "id" : "files",
       "required" : false,
-      "ui": true,
       "icon": "files-128.png",
       "description": "Simple device files browser"
     },
@@ -42,7 +37,6 @@
       "name" : "Rocket.Chat",
       "id" : "rocketchat",
       "required" : false,
-      "ui": true,
       "icon": "rocketchat-128.png",
       "description": "Text, voice and video chat"
     },
@@ -50,7 +44,6 @@
       "name" : "GOGS git server",
       "id" : "gogs",
       "required" : false,
-      "ui": true,
       "icon": "gogs-128.png",
       "description": "Distributed version control system"
     },
@@ -58,7 +51,6 @@
       "name" : "Syncthing",
       "id" : "syncthing",
       "required" : false,
-      "ui": true,
       "icon": "syncthing-128.png",
       "description": "Continuous File Synchronization"
     },
@@ -66,7 +58,6 @@
       "name" : "WordPress",
       "id" : "wordpress",
       "required" : false,
-      "ui": true,
       "icon": "wordpress-128.png",
       "description": "Blogging, mailing lists and forums, media galleries, and online stores"
     },
@@ -74,7 +65,6 @@
       "name" : "Users",
       "id" : "users",
       "required" : false,
-      "ui": true,
       "icon": "users-128.png",
       "description": "User management app"
     },
@@ -82,7 +72,6 @@
       "name" : "Pi-hole",
       "id" : "pihole",
       "required" : false,
-      "ui": true,
       "icon": "pihole-128.png",
       "description": "Network-wide Ad Blocking"
     },
@@ -90,7 +79,6 @@
       "name" : "OpenVPN",
       "id" : "openvpn",
       "required" : false,
-      "ui": true,
       "icon": "openvpn-128.png",
       "description": "Secure connection to your Syncloud device over the Internet"
     },
@@ -98,7 +86,6 @@
       "name" : "Plex Media Server",
       "id" : "plex",
       "required" : false,
-      "ui": true,
       "icon": "plex-128.png",
       "description": "Free movies and TV plus all your personal media libraries on every device. Master your Mediaverse"
     },
@@ -106,7 +93,6 @@
       "name" : "Bitwarden",
       "id" : "bitwarden",
       "required" : false,
-      "ui": true,
       "icon": "bitwarden-128.png",
       "description": "Password Manager."
     },
@@ -114,7 +100,6 @@
       "name" : "Home Assistant",
       "id" : "home-assistant",
       "required" : false,
-      "ui": true,
       "icon": "home-assistant-128.png",
       "description": "Home automation software designed to be the central control system for smart home devices"
     },
@@ -122,7 +107,6 @@
       "name" : "Jellyfin Media System",
       "id" : "jellyfin",
       "required" : false,
-      "ui": true,
       "icon": "jellyfin-128.png",
       "description": "The Free Software Media System"
     },
@@ -130,7 +114,6 @@
       "name" : "Collabora Online DE",
       "id" : "collabora",
       "required" : false,
-      "ui": true,
       "icon": "collabora-128.png",
       "description": "Collabora Online Development Edition"
     },
@@ -138,7 +121,6 @@
       "name" : "Mastodon",
       "id" : "mastodon",
       "required" : false,
-      "ui": true,
       "icon": "mastodon-128.png",
       "description": "Social Network"
     },
@@ -146,7 +128,6 @@
       "name" : "Grocy",
       "id" : "grocy",
       "required" : false,
-      "ui": true,
       "icon": "grocy-128.png",
       "description": "Groceries Management"
     },
@@ -154,7 +135,6 @@
       "name" : "Matrix",
       "id" : "matrix",
       "required" : false,
-      "ui": true,
       "icon": "matrix-128.png",
       "description": "An open network for secure, decentralized communication"
     },
@@ -162,7 +142,6 @@
       "name" : "Crowdsec",
       "id" : "crowdsec",
       "required" : false,
-      "ui": true,
       "icon": "crowdsec-128.png",
       "description": "Intrusion prevention system"
     },
@@ -170,7 +149,6 @@
       "name" : "Calibre-Web",
       "id" : "calibre",
       "required" : false,
-      "ui": true,
       "icon": "calibre-128.png",
       "description": "Browsing, reading and downloading eBooks"
     },
@@ -178,7 +156,6 @@
       "name" : "ShairPort",
       "id" : "shairport",
       "required" : false,
-      "ui": true,
       "icon": "shairport-128.png",
       "description": "AirPlay audio player"
     },
@@ -186,7 +163,6 @@
       "name" : "PhotoPrism AI-Powered Photos",
       "id" : "photoprism",
       "required" : false,
-      "ui": true,
       "icon": "photoprism-128.png",
       "description": "AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy"
     },
@@ -194,7 +170,6 @@
       "name" : "Stable Diffusion",
       "id" : "stable-diffusion",
       "required" : false,
-      "ui": true,
       "icon": "stable-diffusion-128.png",
       "description": "Generative artificial intelligence (generative AI) model that produces unique photorealistic images from text and image prompts"
     },
@@ -202,7 +177,6 @@
       "name" : "Transmission",
       "id" : "transmission",
       "required" : false,
-      "ui": true,
       "icon": "transmission-128.png",
       "description": "A Fast, Easy and Free Bittorrent Client"
     },
@@ -210,7 +184,6 @@
       "name" : "Frigate NVR",
       "id" : "frigate",
       "required" : false,
-      "ui": true,
       "icon": "frigate-128.png",
       "description": "NVR With Realtime Object Detection for IP Cameras"
     },
@@ -218,7 +191,6 @@
       "name" : "YouTube Downloader",
       "id" : "youtube",
       "required" : false,
-      "ui": true,
       "icon": "youtube-128.png",
       "description": "YouTube downloader based on yt-dlp tool"
     },
@@ -226,7 +198,6 @@
       "name" : "PeerTube",
       "id" : "peertube",
       "required" : false,
-      "ui": true,
       "icon": "peertube-128.png",
       "description": "Decentralized video platform"
     },
@@ -234,7 +205,6 @@
       "name" : "OwnTracks",
       "id" : "owntracks",
       "required" : false,
-      "ui": true,
       "icon": "owntracks-128.png",
       "description": "Keep track of your own location"
     },
@@ -242,7 +212,6 @@
       "name" : "Standard Notes",
       "id" : "notes",
       "required" : false,
-      "ui": true,
       "icon": "notes-128.png",
       "description": "Standard Notes is an easy-to-use encrypted note-taking app"
     },
@@ -250,7 +219,6 @@
       "name" : "Jitsi Meet",
       "id" : "jitsimeet",
       "required" : false,
-      "ui": true,
       "icon": "jitsimeet-128.png",
       "description": "Secure and high quality meetings"
     },
@@ -258,7 +226,6 @@
       "name" : "Paperless-ngx",
       "id" : "paperless",
       "required" : false,
-      "ui": true,
       "icon": "paperless-128.png",
       "description": "Scan, index and archive all your physical documents"
     },
@@ -266,7 +233,6 @@
       "name" : "Mattermost",
       "id" : "mattermost",
       "required" : false,
-      "ui": true,
       "icon": "mattermost-128.png",
       "description": "Online chat service with file sharing, search, and third party application integrations"
     },
@@ -274,7 +240,6 @@
       "name" : "Gramps",
       "id" : "gramps",
       "required" : false,
-      "ui": true,
       "icon": "gramps-128.png",
       "description": "Research, organize and share your family tree"
     },
@@ -282,7 +247,6 @@
       "name" : "Invoice Ninja",
       "id" : "invoiceninja",
       "required" : false,
-      "ui": true,
       "icon": "invoiceninja-128.png",
       "description": "Invoice, quote, project and time-tracking"
     },
@@ -290,7 +254,6 @@
       "name" : "Homebridge",
       "id" : "homebridge",
       "required" : false,
-      "ui": true,
       "icon": "homebridge-128.png",
       "description": "Integrate with smart home devices that do not natively support HomeKit"
     },
@@ -298,7 +261,6 @@
       "name" : "Kimai",
       "id" : "kimai",
       "required" : false,
-      "ui": true,
       "icon": "kimai-128.png",
       "description": "Time tracking for project-driven teams"
     },
@@ -306,7 +268,6 @@
       "name" : "Owncast",
       "id" : "owncast",
       "required" : false,
-      "ui": true,
       "icon": "owncast-128.png",
       "description": "Live video and web chat server for use with existing popular broadcasting software"
     },
@@ -314,7 +275,6 @@
       "name" : "MeshCentral",
       "id" : "meshcentral",
       "required" : false,
-      "ui": true,
       "icon": "meshcentral-128.png",
       "description": "Remote device management"
     },
@@ -322,7 +282,6 @@
       "name" : "Open WebUI",
       "id" : "openwebui",
       "required" : false,
-      "ui": true,
       "icon": "openwebui-128.png",
       "description": "AI platform designed to operate entirely offline"
     },
@@ -330,7 +289,6 @@
       "name" : "AmneziaWG",
       "id" : "amneziawg",
       "required" : false,
-      "ui": true,
       "icon": "amneziawg-128.png",
       "description": "AmneziaWG VPN server (WireGuard with DPI obfuscation)"
     },
@@ -338,7 +296,6 @@
       "name" : "ONLYOFFICE Docs",
       "id" : "onlyoffice",
       "required" : false,
-      "ui": true,
       "icon": "onlyoffice-128.png",
       "description": "Online office suite for documents, spreadsheets and presentations"
     },
@@ -346,7 +303,6 @@
       "name" : "Syncloud Game Hub",
       "id" : "games",
       "required" : false,
-      "ui": true,
       "icon": "games-128.png",
       "description": "Dedicated game server panel for SteamCMD and Pelican-egg games"
     }
