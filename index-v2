@@ -62,13 +62,6 @@
       "description": "Blogging, mailing lists and forums, media galleries, and online stores"
     },
     {
-      "name" : "Users",
-      "id" : "users",
-      "required" : false,
-      "icon": "users-128.png",
-      "description": "User management app"
-    },
-    {
       "name" : "Pi-hole",
       "id" : "pihole",
       "required" : false,
