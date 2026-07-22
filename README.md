@@ -1,5 +1,7 @@
 # release
 
+**Deprecated.** Nothing consumes this catalog anymore — the platform app center and store UI build their app list dynamically from the store (`snap.yaml` + version files published by each app's CI). The already-published `releases/*/index-v2` and images stay in S3 untouched for any legacy clients. Repository archived.
+
 Syncloud app catalog. Holds the `index-v2` manifest and `images/*-128.png` icons that platform clients fetch from `https://apps.syncloud.org/releases/<branch>/`.
 
 ## Publish
